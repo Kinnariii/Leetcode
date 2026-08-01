@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kinnariii/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0486-predict-the-winner](https://github.com/Kinnariii/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Kinnariii/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kinnariii/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kinnariii/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -50,4 +51,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kinnariii/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0486-predict-the-winner](https://github.com/Kinnariii/Leetcode/tree/master/0486-predict-the-winner) |
+## Math
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Kinnariii/Leetcode/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Kinnariii/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Kinnariii/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
