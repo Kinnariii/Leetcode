@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Kinnariii/Leetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Kinnariii/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kinnariii/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0877-stone-game](https://github.com/Kinnariii/Leetcode/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kinnariii/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kinnariii/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Kinnariii/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kinnariii/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/Kinnariii/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Kinnariii/Leetcode/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kinnariii/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Kinnariii/Leetcode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -64,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kinnariii/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Kinnariii/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
