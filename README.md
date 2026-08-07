@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kinnariii/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kinnariii/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Kinnariii/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kinnariii/Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kinnariii/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -92,4 +93,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Kinnariii/Leetcode/tree/master/0402-remove-k-digits) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kinnariii/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kinnariii/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kinnariii/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kinnariii/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
