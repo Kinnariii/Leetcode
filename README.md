@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kinnariii/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Kinnariii/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Kinnariii/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kinnariii/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0283-move-zeroes](https://github.com/Kinnariii/Leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Kinnariii/Leetcode/tree/master/0486-predict-the-winner) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kinnariii/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Kinnariii/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Kinnariii/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Kinnariii/Leetcode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -116,4 +118,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kinnariii/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kinnariii/Leetcode/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kinnariii/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Kinnariii/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
