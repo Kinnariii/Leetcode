@@ -10,19 +10,21 @@
  * };
  */
 class Solution {
-    int height(TreeNode* root){
-        if(root == NULL) return 0;
-        int l = height(root->left);
-        int r = height(root->right);
-        return max(l,r)+1;
+    private:
+    pair<bool,int> balance(TreeNode* root){
+        if(root == nullptr){
+           pair<bool,int>p = make_pair(true,0);
+           return p;
+        }
+        auto[lb,lh] = balance(root->left);
+        auto[rb,rh] = balance(root->right);
+        pair<bool,int>ans;
+        ans.first = lb && rb && abs(lh-rh) <=1;
+        ans.second = max(lh,rh) + 1;
+        return ans;
     }
 public:
     bool isBalanced(TreeNode* root) {
-        if(root==NULL) return true;
-        bool l = isBalanced(root->left);
-        bool r = isBalanced(root->right);
-        bool h = abs(height(root->left) - height(root->right)) <= 1;
-        if(l && r && h) return true;
-        return false;
+        return balance(root).first;
     }
 };
