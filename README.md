@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Kinnariii/Leetcode/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/Kinnariii/Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Kinnariii/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/Kinnariii/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kinnariii/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kinnariii/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kinnariii/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kinnariii/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Kinnariii/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kinnariii/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Kinnariii/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -240,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Kinnariii/Leetcode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Kinnariii/Leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
