@@ -4,17 +4,22 @@ public:
         stack<char> st;
 
         for (char a : s) {
+
+            // Opening bracket
             if (a == '(' || a == '{' || a == '[') {
                 st.push(a);
             }
-            else {
+
+            // Closing bracket
+            else if (a == ')' || a == '}' || a == ']') {
+
                 if (st.empty()) {
                     return false;
                 }
 
                 if ((a == ')' && st.top() == '(') ||
-                    (a == '}' && st.top() == '{') ||
-                    (a == ']' && st.top() == '[')) {
+                    (a == ']' && st.top() == '[') ||
+                    (a == '}' && st.top() == '{')) {
                     st.pop();
                 }
                 else {
