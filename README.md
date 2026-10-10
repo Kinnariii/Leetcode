@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kinnariii/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Kinnariii/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2104-sum-of-subarray-ranges](https://github.com/Kinnariii/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Kinnariii/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Kinnariii/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kinnariii/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Kinnariii/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Kinnariii/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Kinnariii/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kinnariii/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kinnariii/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Kinnariii/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Tree
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Kinnariii/Leetcode/tree/master/0075-sort-colors) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Kinnariii/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quicksort
 |  |
 | ------- |
@@ -290,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kinnariii/Leetcode/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Kinnariii/Leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Kinnariii/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
