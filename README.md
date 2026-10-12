@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Kinnariii/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2104-sum-of-subarray-ranges](https://github.com/Kinnariii/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kinnariii/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kinnariii/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kinnariii/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Kinnariii/Leetcode/tree/master/0127-word-ladder) |
 | [0496-next-greater-element-i](https://github.com/Kinnariii/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kinnariii/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kinnariii/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Kinnariii/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kinnariii/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kinnariii/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Tree
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Kinnariii/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Kinnariii/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Divide and Conquer
 |  |
 | ------- |
