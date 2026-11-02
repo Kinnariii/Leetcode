@@ -1,8 +1,14 @@
 class Solution {
 public:
     int minMoves(vector<int>& nums) {
-        int lo = ranges::min(nums), moves = 0;
-        for (int x : nums) moves += x - lo;
-        return moves;
+        int mini = INT_MAX;
+        for(auto i : nums){
+            mini = min(mini,i);
+        }
+        int ans = 0;
+        for(auto j : nums){
+            ans += j - mini;
+        }
+        return ans;
     }
 };
